@@ -186,7 +186,7 @@
     24 steps passed, 0 failed, 0 skipped, 0 undefined
     Took 0m0.092s
     ```
-    - Команда  исправит и проверит стиль кода в файле `search_pair.cpp`
+    - Команда `make clang` исправит и проверит стиль кода в файле `search_pair.cpp`
     ```bash
     clang-format -i search_pair.cpp
 	clang-format -n search_pair.cpp
