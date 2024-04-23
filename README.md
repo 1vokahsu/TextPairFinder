@@ -27,7 +27,7 @@
     ```
 3. Перейдите в директорию `/TextPairFinder` и выполните команду `make`
     ```bash
-    cd /TextPairFinder
+    cd TextPairFinder/src/
     make
     ```
 2. Вывод должен быть таким
