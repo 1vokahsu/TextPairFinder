@@ -25,7 +25,7 @@
     ```bash
     https://github.com/1vokahsu/TextPairFinder.git
     ```
-3. Перейдите в директорию `/TextPairFinder` и выполните команду `make`
+3. Перейдите в директорию `TextPairFinder/src/` и выполните команду `make`
     ```bash
     cd TextPairFinder/src/
     make
