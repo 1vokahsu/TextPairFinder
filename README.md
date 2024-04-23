@@ -11,13 +11,11 @@
 
 ```tree
 .
-├── LICENSE
 ├── Makefile
-├── README.md
 ├── features
 │   ├── everything.feature
 │   └── steps
-│       └── fisrt_test.py
+│       └── first_test.py
 ├── requirements.txt
 └── search_pair.cpp
 ```
